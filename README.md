@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   <img height="50%" width="auto" src ="https://streak-stats.demolab.com?user=AdityaK215&theme=neon-dark&date_format=j%20M%5B%20Y%5D">
+   <img height="50%" width="auto" src ="https://streak-stats.demolab.com?user=AdityaK215&theme=radical&date_format=j%20M%5B%20Y%5D">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=AdityaK215&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
