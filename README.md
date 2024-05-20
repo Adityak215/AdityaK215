@@ -18,10 +18,12 @@
   <img height="50%" width="auto" src ="https://nav-readme.vercel.app/api/top-langs/?username=AdityaK215&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6">
 </p>
 
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaK215&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdityaK215&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
---> 
+
+
+[![](https://visitcount.itsvg.in/api?id=AdityaK215&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -44,8 +46,23 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DuoLingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=AdityaK215&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 >Contact Me !</h2>
+<div >
+  <p>
+    <a href="adityakumar.9c@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>  
+    <a href="[https://www.linkedin.com/in/aditya-kumar-b3185024a/]">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>  
+    <a href="https://twitter.com/MacWeTT1804">
+        <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+  </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
