@@ -5,29 +5,30 @@
 
 - I am a 20y old Flutter App Developer.
 - My hobbies include reading books, listening to songs and watching anime in free time.
-  
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaK215&show_icons=true&theme=radical)](https://github.com/AdityaK215/github-readme-stats) -->
 
-<div align="center"> <img src="https://raw.githubusercontent.com/AdityaK215/AdityaK215/output/github-contribution-grid-snake-dark.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/AdityaK215/AdityaK215/output/github-contribution-grid-snake-dark.svg" /></div> 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://nav-readme.vercel.app/api?username=AdityaK215&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=contribs&rank_icon=github&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://nav-readme.vercel.app/api/top-langs/?username=AdityaK215&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AdityaK215&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=contribs&rank_icon=github&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK215&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6">
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaK215&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaK215&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<p align="center">
+   <img height="50%" width="auto" src ="https://streak-stats.demolab.com?user=AdityaK215&theme=neon-dark&date_format=j%20M%5B%20Y%5D">
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=AdityaK215&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 💻Software & Technologies:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 💻Software & Technologies:</b>
+<br>
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -49,16 +50,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2 >Contact Me !</h2>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div >
   <p>
-    <a href="adityakumar.9c@gmail.com">
+    <a href="mailto:adityalumar.9c@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" />
     </a>  
     <a href="[https://www.linkedin.com/in/aditya-kumar-b3185024a/]">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>  
-    <a href="https://twitter.com/MacWeTT1804">
+    <a href="https://twitter.com/AdityaK21504">
         <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
   </p>
