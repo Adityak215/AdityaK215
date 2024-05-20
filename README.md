@@ -3,8 +3,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- I am a 20y old Flutter App Developer.
-- My hobbies include reading books, listening to songs and watching anime in free time.
+- I am a 20y old Flutter App Developer💻.
+- I am an Android enthusiast and like to test custom ROMs occasionally📱.
+- My hobbies include reading books📚, listening to songs🎧 and watching anime📺 in free time.
  
 <!-- <div align="center"> <img src="https://raw.githubusercontent.com/AdityaK215/AdityaK215/output/github-contribution-grid-snake-dark.svg" /></div> -->
 
