@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Aditya Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://whosarghya.netlify.app/content/giphy.gif" width = 50px></picture> **About me**
 
 - I am a 20y old Flutter App Developer💻.
 - I am an Android enthusiast and like to test custom ROMs occasionally📱.
@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!  </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlkZ3ZsbDM5MXczdnkwZnpvMnI5MXFmZ2U3ZWU0aGF5a25nd3BiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width ="30">
 <div >
   <p>
     <a href="mailto:adityalumar.9c@gmail.com" target="_blank">
