@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://whosarghya.netlify.app/content/giphy.gif" width = 50px></picture> **About me**
 
-- I am a 20y old Flutter App Developer💻.
+- I am a 22y old Flutter App and Node.js Backend Developer💻.
 - I am an Android enthusiast and like to test custom ROMs occasionally📱.
 - My hobbies include reading books📚, listening to songs🎧 and watching anime📺 in free time.
  
